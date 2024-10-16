@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Tebet Echo Park</name>
+    <NetworkLink>
+      <name>Taman Kota Jakarta</name>
+      <Link>
+        <href><![CDATA[https://www.google.com/maps/d/kml?forcekml=1&mid=1d9YnYKW7-gBWOwGkxbk5Zvx8IC60EJ8&lid=U80BD3PFLsc]]></href>
+      </Link>
+    </NetworkLink>
+  </Document>
+</kml>
